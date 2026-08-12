@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.svg" alt="AgentSpyglass" width="180">
+  <img src="logo.png" alt="AgentSpyglass" width="500">
 </p>
 
 <p align="center">
