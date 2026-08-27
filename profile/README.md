@@ -63,14 +63,14 @@ It provides a visual way to understand what agents are doing in real time — no
 
 ### Experience
 
-* [ ] Support retroactive sessions, load and visualize previous messages
+* [x] Support retroactive sessions, load and visualize previous messages
 * [ ] Add animations to node creation, update and more
-* [ ] Make the experience more intuitive for people watching
+* [x] Make the experience more intuitive for people watching
 * [ ] Make AgentSpyglass more customizable
 
 ### Sharing
 
-* [ ] Make AgentSpyglass publicly available
+* [x] Make AgentSpyglass publicly available
 * [ ] Export agent sessions as slideshows
 
 ### Integrations
